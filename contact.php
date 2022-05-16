@@ -3,14 +3,15 @@
     <!-- top bar -->
     <div class="top-bar">
         <h1>contact Me</h1>
-        <p><a href="#">Home</a> / Contact Me</p>
+        <p><a href="/">Home</a> / Contact Me</p>
     </div>
     <!-- end top bar -->
 
     <!-- main-container -->
     <div class="container main-container">
         <div class="col-md-6">
-            <form action="#" method="post">
+            <form action="https://api.staticforms.xyz/submit" method="post">
+                <input type="hidden" name="accessKey" value="ca5faac3-6cc0-4b7c-847d-f37eec6ae4fd"> <!-- Required -->
                 <div class="row">
                     <div class="col-md-6">
                         <div class="input-contact">
@@ -26,8 +27,8 @@
                     </div>
                     <div class="col-md-12">
                         <div class="input-contact">
-                            <input type="text" name="object">
-                            <span>object</span>
+                            <input type="text" name="subject">
+                            <span>Subject</span>
                         </div>
                     </div>
                     <div class="col-md-12">
@@ -36,8 +37,10 @@
                             <span>message</span>
                         </div>
                     </div>
+                    <input type="text" name="honeypot" style="display:none">
                     <div class="col-md-12">
-                        <a href="#" class="btn btn-box">Send</a>
+                    <input type="submit" class="btn btn-box" value="Submit" />
+                        
                     </div>
                 </div>
             </form>

@@ -3,7 +3,7 @@
     <!-- top-bar -->
     <div class="top-bar">
         <h1>project title</h1>
-        <p><a href="#">Home</a> / <a href="#">portfolio</a> / project title</p>
+        <p><a href="/">Home</a> / <a href="#">portfolio</a> / project title</p>
     </div>
     <!-- end top-bar -->
     

@@ -16,11 +16,11 @@
                     <nav class="categories text-center">
                         <ul class="portfolio_filter">
                             <li><a href="" class="active" data-filter="*">All</a></li>
-                            <li><a href="" data-filter=".photography">Photography</a></li>
-                            <li><a href="" data-filter=".logo">Logo</a></li>
-                            <li><a href="" data-filter=".graphics">Graphics</a></li>
-                            <li><a href="" data-filter=".ads">Advertising</a></li>
-                            <li><a href="" data-filter=".fashion">Fashion</a></li>
+                            <li><a href="" data-filter=".wordpress">Wordpress</a></li>
+                            <li><a href="" data-filter=".themes">Themes</a></li>
+                            <li><a href="" data-filter=".e-commerce">E-commerce</a></li>
+                            <li><a href="" data-filter=".web-design">Web Design</a></li>
+
                         </ul>
                     </nav>
                 </div>
@@ -31,7 +31,7 @@
                     <!-- single work -->
                     <div class="col-md-4 col-sm-6  fashion logo">
                         <a href="single-project.html" class="portfolio_item">
-                            <img src="img/portfolio/01.jpg" alt="image" class="img-responsive" />
+                            <img src="assets/img/portfolio/01.jpg" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
@@ -47,7 +47,7 @@
                     <!-- single work -->
                     <div class="col-md-4 col-sm-6 ads graphics">
                         <a href="single-project.html" class="portfolio_item">
-                            <img src="img/portfolio/03.jpg" alt="image" class="img-responsive" />
+                            <img src="assets/img/portfolio/03.jpg" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
@@ -63,7 +63,7 @@
                     <!-- single work -->
                     <div class="col-md-4 col-sm-12 photography">
                         <a href="single-project.html" class="portfolio_item">
-                            <img src="img/portfolio/02.jpg" alt="image" class="img-responsive" />
+                            <img src="assets/img/portfolio/02.jpg" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
@@ -79,7 +79,7 @@
                     <!-- single work -->
                     <div class="col-md-4 col-sm-6 fashion ads">
                         <a href="single-project.html" class="portfolio_item">
-                            <img src="img/portfolio/04.jpg" alt="image" class="img-responsive" />
+                            <img src="assets/img/portfolio/04.jpg" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
@@ -95,7 +95,7 @@
                     <!-- single work -->
                     <div class="col-md-4 col-sm-6 graphics ads">
                         <a href="single-project.html" class="portfolio_item">
-                            <img src="img/portfolio/05.jpg" alt="image" class="img-responsive" />
+                            <img src="assets/img/portfolio/05.jpg" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
@@ -111,7 +111,7 @@
                     <!-- single work -->
                     <div class="col-md-4 col-sm-12 photography">
                         <a href="single-project.html" class="portfolio_item">
-                            <img src="img/portfolio/010.jpg" alt="image" class="img-responsive" />
+                            <img src="assets/img/portfolio/010.jpg" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
@@ -127,7 +127,7 @@
                     <!-- single work -->
                     <div class="col-md-4 col-sm-6 graphics ads">
                         <a href="single-project.html" class="portfolio_item">
-                            <img src="img/portfolio/06.jpg" alt="image" class="img-responsive" />
+                            <img src="assets/img/portfolio/06.jpg" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
@@ -143,7 +143,7 @@
                     <!-- single work -->
                     <div class="col-md-4 col-sm-6 graphics ads">
                         <a href="single-project.html" class="portfolio_item">
-                            <img src="img/portfolio/07.jpg" alt="image" class="img-responsive" />
+                            <img src="assets/img/portfolio/07.jpg" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
@@ -159,7 +159,7 @@
                     <!-- single work -->
                     <div class="col-md-4 col-sm-6 graphics ads">
                         <a href="single-project.html" class="portfolio_item">
-                            <img src="img/portfolio/08.jpg" alt="image" class="img-responsive" />
+                            <img src="assets/img/portfolio/08.jpg" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
