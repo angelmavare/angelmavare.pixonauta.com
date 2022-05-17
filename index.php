@@ -27,12 +27,12 @@
                 <!-- single work -->
                 <div class="col-md-3 col-sm-6  fashion logo">
                     <a href="single-project.html" class="portfolio_item">
-                        <img src="assets/img/portfolio/01.jpg" alt="image" class="img-responsive" />
+                        <img src="assets/img/portfolio/nebula-theme/ipad-nebula3.jpg" alt="image" class="img-responsive" />
                         <div class="portfolio_item_hover">
                             <div class="portfolio-border clearfix">
                                 <div class="item_info">
-                                    <span>Mockups in seconds</span>
-                                    <em>Fashion / Logo</em>
+                                    <span>Nebula theme</span>
+                                    <em>Theme</em>
                                 </div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                         <div class="portfolio_item_hover">
                             <div class="portfolio-border clearfix">
                                 <div class="item_info">
-                                    <span>Floating mockups</span>
-                                    <em>Ads / Graphics</em>
+                                    <span>Coec moodle</span>
+                                    <em>Moodle</em>
                                 </div>
                             </div>
                         </div>
@@ -59,28 +59,12 @@
                 <!-- single work -->
                 <div class="col-md-6 col-sm-12 photography">
                     <a href="single-project.html" class="portfolio_item">
-                        <img src="assets/img/portfolio/02.jpg" alt="image" class="img-responsive" />
+                        <img src="assets/img/portfolio/scribana/scribana-presentation2-square2.jpg" alt="image" class="img-responsive" />
                         <div class="portfolio_item_hover">
                             <div class="portfolio-border clearfix">
                                 <div class="item_info">
-                                    <span>Photorealistic smartwatch</span>
-                                    <em>Photography</em>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- end single work -->
-
-                <!-- single work -->
-                <div class="col-md-3 col-sm-6 fashion ads">
-                    <a href="single-project.html" class="portfolio_item">
-                        <img src="assets/img/portfolio/04.jpg" alt="image" class="img-responsive" />
-                        <div class="portfolio_item_hover">
-                            <div class="portfolio-border clearfix">
-                                <div class="item_info">
-                                    <span>Held by hands</span>
-                                    <em>Fashion / Ads</em>
+                                    <span>Scribana.shop</span>
+                                    <em>E-commerce</em>
                                 </div>
                             </div>
                         </div>
@@ -103,6 +87,24 @@
                     </a>
                 </div>
                 <!-- end single work -->
+                
+                <!-- single work -->
+                <div class="col-md-3 col-sm-6 fashion ads">
+                    <a href="single-project.html" class="portfolio_item">
+                        <img src="assets/img/portfolio/04.jpg" alt="image" class="img-responsive" />
+                        <div class="portfolio_item_hover">
+                            <div class="portfolio-border clearfix">
+                                <div class="item_info">
+                                    <span>Agenda Online</span>
+                                    <em>Wordpress plugin</em>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <!-- end single work -->
+
+                
 
                 <!-- single work -->
                 <div class="col-md-6 col-sm-12 photography">
