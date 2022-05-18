@@ -112,12 +112,12 @@
             <!-- single work -->
             <div class="col-md-6 col-sm-12 photography">
                 <a href="single-project.html" class="portfolio_item">
-                    <img src="assets/img/portfolio/pixonauta2017/pixoweb2-2.jpg" alt="image" class="img-responsive" />
+                    <img src="assets/img/portfolio/pixonauta-cover3.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
                         <div class="portfolio-border clearfix">
                             <div class="item_info">
-                                <span>Photorealistic smartwatch</span>
-                                <em>Photography</em>
+                                <span>Pixonauta Agency</span>
+                                <em>Website</em>
                             </div>
                         </div>
                     </div>
@@ -178,12 +178,12 @@
             <!-- single work -->
             <div class="col-md-3 col-sm-6 graphics ads">
                 <a href="single-project.html" class="portfolio_item">
-                    <img src="assets/img/portfolio/09.jpg" alt="image" class="img-responsive" />
+                    <img src="assets/img/portfolio/nacustica/na-cover2.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
                         <div class="portfolio-border clearfix">
                             <div class="item_info">
-                                <span>Mobile devices</span>
-                                <em>Graphics / Ads</em>
+                                <span>Notson Acustica</span>
+                                <em>Website</em>
                             </div>
                         </div>
                     </div>
