@@ -61,11 +61,11 @@
             <ul class="box-primary-nav">
                 <li class="box-label">MENU</li>
 
-                <li><a href="index.php">Home</a> <i class="fa-solid fa-circle color"></i></li>
-                <li><a href="about.php">About me</a></li>
-                <li><a href="services.php">Services & Skills</a></li>
-                <li><a href="portfolio.php">Portfolio</a></li>
-                <li><a href="contact.php">Contact me</a></li>
+                <li class="page-home"><a href="index.php">Home</a> <!-- <i class="fa-solid fa-circle color"></i> --></li>
+                <li class="page-about"><a href="about.php">About me</a></li>
+                <li class="page-services"><a href="services.php">Services & Skills</a></li>
+                <li class="page-portfolio"><a href="portfolio.php">Portfolio</a></li>
+                <li class="page-contact"><a href="contact.php">Contact me</a></li>
 
 
 

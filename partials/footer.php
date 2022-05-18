@@ -21,7 +21,27 @@
 
     <!--  custom script -->
     <script src="assets/js/custom.js"></script>
-
+    <script>
+        var idpage = $('.whatpage').attr("id");
+        if(idpage == "home"){
+            $('.page-home').append('<i class="fa-solid fa-circle color"></i>');
+        }
+        if(idpage == "about"){
+            $('.page-about').append('<i class="fa-solid fa-circle color"></i>');
+        }
+        if(idpage == "services"){
+            $('.page-services').append('<i class="fa-solid fa-circle color"></i>');
+        }
+        if(idpage == "portfolio"){
+            $('.page-portfolio').append('<i class="fa-solid fa-circle color"></i>');
+        }
+        if(idpage == "contact"){
+            $('.page-contact').append('<i class="fa-solid fa-circle color"></i>');
+        }
+        if(idpage == "project"){
+            $('.page-portfolio').append('<i class="fa-solid fa-circle color"></i>');
+        }
+    </script>
 
 </body>
 

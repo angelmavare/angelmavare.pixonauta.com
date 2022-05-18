@@ -1,5 +1,5 @@
 <?php require('partials/header.php');?>
-
+<div class="whatpage" id="services"></div>
     <!-- top bar -->
     <div class="top-bar">
         <h1>Services & Skills</h1>

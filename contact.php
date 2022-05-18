@@ -1,5 +1,5 @@
 <?php require('partials/header.php');?>
-
+<div class="whatpage" id="contact"></div>
     <!-- top bar -->
     <div class="top-bar">
         <h1>contact Me</h1>

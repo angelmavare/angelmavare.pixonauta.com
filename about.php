@@ -1,5 +1,5 @@
 <?php require('partials/header.php');?>
-
+<div class="whatpage" id="about"></div>
     <!-- Top bar -->
     <div class="top-bar">
         <h1>About Me</h1>

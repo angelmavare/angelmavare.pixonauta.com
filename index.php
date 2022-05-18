@@ -1,4 +1,5 @@
 <?php require('partials/header.php'); ?>
+<div class="whatpage" id="home"></div>
 <div class="container-fluid">
     <!-- box-intro -->
     <section class="box-intro">

@@ -1,4 +1,5 @@
 <?php require('partials/header.php');?>
+<div class="whatpage" id="portfolio"></div>
     <!-- top bar -->
     <div class="top-bar">
         <h1>portfolio</h1>
