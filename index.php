@@ -25,8 +25,8 @@
     <div class="portfolio">
         <div class="no-padding portfolio_container">
             <!-- single work -->
-            <div class="col-md-3 col-sm-6  fashion logo">
-                <a href="single-project.html" class="portfolio_item">
+            <div class="col-md-3 col-sm-6  theme logo">
+                <a href="project-nebula-theme.php" class="portfolio_item">
                     <img src="assets/img/portfolio/nebula-theme/ipad-nebula8.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
                         <div class="portfolio-border clearfix">
@@ -41,8 +41,8 @@
             <!-- end single work -->
 
             <!-- single work -->
-            <div class="col-md-3 col-sm-6 graphics ads">
-                <a href="single-project.html" class="portfolio_item">
+            <div class="col-md-3 col-sm-6 website ads">
+                <a href="single-project.php" class="portfolio_item">
                     <img src="assets/img/portfolio/cdmarin/cdmarinmockup.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
                         <div class="portfolio-border clearfix">
@@ -59,8 +59,8 @@
 
 
             <!-- single work -->
-            <div class="col-md-6 col-sm-12 photography">
-                <a href="single-project.html" class="portfolio_item">
+            <div class="col-md-6 col-sm-12 e-commerce">
+                <a href="project-scribana.php" class="portfolio_item">
                     <img src="assets/img/portfolio/scribana/scribana-presentation2-square2.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
                         <div class="portfolio-border clearfix">
@@ -75,7 +75,7 @@
             <!-- end single work -->
 
             <!-- single work -->
-            <div class="col-md-3 col-sm-6 graphics ads">
+            <div class="col-md-3 col-sm-6 ecommerce">
                 <a href="single-project.html" class="portfolio_item">
                     <img src="assets/img/portfolio/octoedroshop/octomockup2.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
@@ -93,8 +93,8 @@
 
 
             <!-- single work -->
-            <div class="col-md-3 col-sm-6 fashion ads">
-                <a href="single-project.html" class="portfolio_item">
+            <div class="col-md-3 col-sm-6 theme">
+                <a href="project-uxtify-theme.php" class="portfolio_item">
                     <img src="assets/img/portfolio/uxtify_theme/uxtify-cover2.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
                         <div class="portfolio-border clearfix">
@@ -111,8 +111,8 @@
 
 
             <!-- single work -->
-            <div class="col-md-6 col-sm-12 photography">
-                <a href="single-project.html" class="portfolio_item">
+            <div class="col-md-6 col-sm-12 website">
+                <a href="project-pixonauta.php" class="portfolio_item">
                     <img src="assets/img/portfolio/pixonauta-cover3.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
                         <div class="portfolio-border clearfix">

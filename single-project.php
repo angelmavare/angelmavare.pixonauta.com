@@ -3,14 +3,14 @@
     <!-- top-bar -->
     <div class="top-bar">
         <h1>project title</h1>
-        <p><a href="/">Home</a> / <a href="#">portfolio</a> / project title</p>
+        <p><a href="/">Home</a> / <a href="portfolio.php">portfolio</a> / project title</p>
     </div>
     <!-- end top-bar -->
     
     <!-- main-container -->
     <div class="container main-container">
         <div class="col-md-12">
-            <img src="img/portfolio/portfolio.jpg" alt="" class="img-responsive" />
+            <img src="assets/img/portfolio/portfolio.jpg" alt="" class="img-responsive" />
             <div class="h-30"></div>
         </div>
 
