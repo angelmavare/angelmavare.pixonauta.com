@@ -43,7 +43,7 @@ $projectName = "Scribana shop";
                 <!-- <li><i class="fa-solid fa-pen-nib text-center"></i> <strong>Design:</strong> Ana Echeverría</li> -->
                 <!-- <li><i class="fa-solid fa-code text-center"></i> <strong>Development:</strong> Angel Mavare</li> -->
                 <li><i class="fa-solid fa-calendar-days text-center"></i> <strong>Date:</strong> October 2021</li>
-                <li><i class="fa-solid fa-circle-user text-center"></i> <strong>Customer:</strong> <a target="_blank" href="https://scribana.shop/"><?php echo $projectName; ?></a></li>
+                <li><i class="fa-solid fa-circle-user text-center"></i> <strong>Client:</strong> <a target="_blank" href="https://scribana.shop/"><?php echo $projectName; ?></a></li>
                 <!-- <li><i class="fa-solid fa-building text-center"></i> <strong>Company:</strong> <a target="_blank" href="https://scribana.shop/">pixonauta.com</a></li> -->
                 <li><i class="fa-solid fa-tag text-center"></i> <strong>Tags:</strong> <span class="badge badge-primary">wordpress</span> <span class="badge badge-primary">woocommerce</span> <span class="badge badge-primary">e-commerce</span></li>
                 

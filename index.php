@@ -44,21 +44,24 @@ $pageName = "Home | Angel Mavare portfolio";
             </div>
             <!-- end single work -->
 
-            <!-- single work -->
-            <div class="col-md-3 col-sm-6 website ads">
-                <a href="project-cdmarin.php" class="portfolio_item">
-                    <img src="assets/img/portfolio/cdmarin/cdmarinmockup.jpg" alt="image" class="img-responsive" />
+             <!-- single work -->
+             <div class="col-md-3 col-sm-6 theme">
+                <a href="project-uxtify-theme.php" class="portfolio_item">
+                    <img src="assets/img/portfolio/uxtify_theme/uxtify-cover2.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
                         <div class="portfolio-border clearfix">
                             <div class="item_info">
-                                <span>CD Marín</span>
-                                <em>Website</em>
+                                <span>Uxtify theme</span>
+                                <em>Theme</em>
                             </div>
                         </div>
                     </div>
                 </a>
             </div>
             <!-- end single work -->
+
+            
+            
 
 
 
@@ -80,7 +83,7 @@ $pageName = "Home | Angel Mavare portfolio";
 
             <!-- single work -->
             <div class="col-md-3 col-sm-6 ecommerce">
-                <a href="single-project.html" class="portfolio_item">
+                <a href="project-octoedro-store.php" class="portfolio_item">
                     <img src="assets/img/portfolio/octoedroshop/octomockup2.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
                         <div class="portfolio-border clearfix">
@@ -97,14 +100,14 @@ $pageName = "Home | Angel Mavare portfolio";
 
 
             <!-- single work -->
-            <div class="col-md-3 col-sm-6 theme">
-                <a href="project-uxtify-theme.php" class="portfolio_item">
-                    <img src="assets/img/portfolio/uxtify_theme/uxtify-cover2.jpg" alt="image" class="img-responsive" />
+            <div class="col-md-3 col-sm-6 graphics ads">
+                <a href="project-smshop.php" class="portfolio_item">
+                    <img src="assets/img/portfolio/sshop/sshop-cover.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
                         <div class="portfolio-border clearfix">
                             <div class="item_info">
-                                <span>Uxtify theme</span>
-                                <em>Theme</em>
+                                <span>SMS Shop</span>
+                                <em>E-commerce</em>
                             </div>
                         </div>
                     </div>
@@ -130,15 +133,15 @@ $pageName = "Home | Angel Mavare portfolio";
             </div>
             <!-- end single work -->
 
-            <!-- single work -->
-            <div class="col-md-3 col-sm-6 graphics ads">
-                <a href="project-smshop.php" class="portfolio_item">
-                    <img src="assets/img/portfolio/sshop/sshop-cover.jpg" alt="image" class="img-responsive" />
+           <!-- single work -->
+           <div class="col-md-3 col-sm-6 website ads">
+                <a href="project-cdmarin.php" class="portfolio_item">
+                    <img src="assets/img/portfolio/cdmarin/cdmarinmockup.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
                         <div class="portfolio-border clearfix">
                             <div class="item_info">
-                                <span>SMS Shop</span>
-                                <em>E-commerce</em>
+                                <span>CD Marín</span>
+                                <em>Website</em>
                             </div>
                         </div>
                     </div>
@@ -150,7 +153,7 @@ $pageName = "Home | Angel Mavare portfolio";
 
             <!-- single work -->
             <div class="col-md-3 col-sm-6 graphics ads">
-                <a href="single-project.html" class="portfolio_item">
+                <a href="project-valuejob.php" class="portfolio_item">
                     <img src="assets/img/portfolio/vjob/vjobmockup.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
                         <div class="portfolio-border clearfix">
@@ -166,13 +169,13 @@ $pageName = "Home | Angel Mavare portfolio";
 
             <!-- single work -->
             <div class="col-md-3 col-sm-6 ads graphics">
-                <a href="single-project.html" class="portfolio_item">
+                <a href="project-coecmoodle.php" class="portfolio_item">
                     <img src="assets/img/portfolio/coecmoodle/coecmoodle2.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
                         <div class="portfolio-border clearfix">
                             <div class="item_info">
                                 <span>COEC moodle</span>
-                                <em>Moodle</em>
+                                <em>e-learning</em>
                             </div>
                         </div>
                     </div>
@@ -182,7 +185,7 @@ $pageName = "Home | Angel Mavare portfolio";
 
             <!-- single work -->
             <div class="col-md-3 col-sm-6 graphics ads">
-                <a href="single-project.html" class="portfolio_item">
+                <a href="project-notson.php" class="portfolio_item">
                     <img src="assets/img/portfolio/nacustica/na-cover2.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
                         <div class="portfolio-border clearfix">

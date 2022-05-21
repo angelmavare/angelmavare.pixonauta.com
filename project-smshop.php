@@ -45,7 +45,7 @@ $projectName = "SMS Shop";
                 <!-- <li><i class="fa-solid fa-pen-nib text-center"></i> <strong>Design:</strong> Ana Echeverría</li> -->
                 <!-- <li><i class="fa-solid fa-code text-center"></i> <strong>Development:</strong> Angel Mavare</li> -->
                 <li><i class="fa-solid fa-calendar-days text-center"></i> <strong>Date:</strong> April 2018</li>
-                <li><i class="fa-solid fa-circle-user text-center"></i> <strong>Customer:</strong> <?php echo $projectName; ?></li>
+                <li><i class="fa-solid fa-circle-user text-center"></i> <strong>Client:</strong> <?php echo $projectName; ?></li>
                 <li><i class="fa-solid fa-building text-center"></i> <strong>Company:</strong> Accon Software</li>
                 <li><i class="fa-solid fa-tag text-center"></i> <strong>Tags:</strong>  <span class="badge badge-primary">e-commerce</span> <span class="badge badge-primary">design</span> <span class="badge badge-primary">prestashop</span> </li>
                 
