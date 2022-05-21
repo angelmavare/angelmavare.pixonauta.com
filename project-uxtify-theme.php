@@ -14,23 +14,23 @@ $projectName = "Uxtify theme";
     <!-- main-container -->
     <div class="container main-container">
         <div class="col-md-12">
-            <img src="assets/img/portfolio/nebula-theme/nebula-fig.jpg" alt="<?php echo $projectName; ?> cover" class="img-responsive" />
+            <img src="assets/img/portfolio/uxtify_theme/uxtify-fig.jpg" alt="<?php echo $projectName; ?> cover" class="img-responsive" />
             <div class="h-30"></div>
         </div>
 
         <div class="col-md-12">
             <h3 class="text-uppercase"><?php echo $projectName; ?></h3>
-            <h5>A wordpress theme made for pixonauta.com</h5>
+            <h5>A wordpress theme made for pixonauta.com as "Pixonauta blog"</h5>
             <div class="h-30"></div>
         </div>
 
         <div class="col-md-9">
-            <p>Nebula theme is characterized by a clean and SEO friendly style, as well as speed. Based on bootstrap and developed with the best practices in building wordpress templates.</p>
+            <p>Uxtify theme was the first blog style template for pixonauta.com. We wanted the style to be a bit out of the box, with vertical text, undocked cards, and a nice way to display categories.</p>
 
-            <p>The objective was to give a fresh air to the old pixonauta.com blog, where legibility, speed and comfort were key elements for the user experience. As a successor to the Uxtify theme, improvements were added to the positioning of ads for google adsense, better support for widgets in the sidebar, footer and post header areas, new tag and category clouds, replacement of slider by mosaic (great optimization for home loading) and interface improvements.</p>
+            <p>The theme was made from scratch using the best practices of the moment. A bit challenging in terms of css but a fun learning experience.</p>
         
 
-            <img src="assets/img/portfolio/nebula-theme/nebula-home-bg2.jpg" alt="<?php echo $projectName; ?>" title="<?php echo $projectName; ?> home" class="img-responsive" style="margin-top:30px;" />
+            <img src="assets/img/portfolio/uxtify_theme/uxtify-home2.jpg" alt="<?php echo $projectName; ?>" title="<?php echo $projectName; ?> home" class="img-responsive" style="margin-top:30px;" />
         </div>
 
         <div class="col-md-3">
