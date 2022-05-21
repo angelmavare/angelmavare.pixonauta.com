@@ -1,21 +1,25 @@
+<?php 
+$pageName = "Nebula theme | Angel Mavare";
+$projectName = "Nebula theme";
+?>
 <?php require('partials/header.php');?>
 <div class="whatpage" id="project"></div>
     <!-- top-bar -->
     <div class="top-bar">
-        <h1>Nebula theme</h1>
-        <p><a href="/">Home</a> / <a href="portfolio.php">portfolio</a> / Nebula theme</p>
+        <h1><?php echo $projectName; ?></h1>
+        <p><a href="/">Home</a> / <a href="portfolio.php">portfolio</a> / <?php echo $projectName; ?></p>
     </div>
     <!-- end top-bar -->
     
     <!-- main-container -->
     <div class="container main-container">
         <div class="col-md-12">
-            <img src="assets/img/portfolio/nebula-theme/nebula-fig.jpg" alt="" class="img-responsive" />
+            <img src="assets/img/portfolio/nebula-theme/nebula-fig.jpg" alt="<?php echo $projectName; ?> cover" class="img-responsive" />
             <div class="h-30"></div>
         </div>
 
         <div class="col-md-12">
-            <h3 class="text-uppercase">Nebula theme</h3>
+            <h3 class="text-uppercase"><?php echo $projectName; ?></h3>
             <h5>A wordpress theme made for pixonauta.com</h5>
             <div class="h-30"></div>
         </div>
@@ -26,7 +30,7 @@
             <p>The objective was to give a fresh air to the old pixonauta.com blog, where legibility, speed and comfort were key elements for the user experience. As a successor to the Uxtify theme, improvements were added to the positioning of ads for google adsense, better support for widgets in the sidebar, footer and post header areas, new tag and category clouds, replacement of slider by mosaic (great optimization for home loading) and interface improvements.</p>
         
 
-            <img src="assets/img/portfolio/nebula-theme/nebula-home-bg2.jpg" alt="nebula-theme" title="nebula theme home" class="img-responsive" style="margin-top:30px;" />
+            <img src="assets/img/portfolio/nebula-theme/nebula-home-bg2.jpg" alt="<?php echo $projectName; ?>" title="<?php echo $projectName; ?> home" class="img-responsive" style="margin-top:30px;" />
         </div>
 
         <div class="col-md-3">

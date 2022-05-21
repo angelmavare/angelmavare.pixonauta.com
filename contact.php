@@ -1,3 +1,7 @@
+<?php 
+$pageName = "Contact | Angel Mavare"; 
+
+?>
 <?php require('partials/header.php');?>
 <div class="whatpage" id="contact"></div>
     <!-- top bar -->
