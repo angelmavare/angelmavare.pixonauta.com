@@ -33,10 +33,10 @@ $projectName = "Pixonauta agency";
 
             <p>The site consisted of a home page, a project gallery, contact and a price list that worked with php to later be assembled as a wordpress template. The Pixonauta agency's site was launched in 2017 and worked until 2019, when it became "Pixonauta blog" whose purpose until now is to share information about design and programming.</p>
         
-            <img src="assets/img/portfolio/pixonauta2017/bg1-white2--pixonauta.jpg" alt="<?php echo $projectName; ?>" title="nebula theme home" class="img-responsive" style="margin-top:30px;" />
-            <img src="assets/img/portfolio/pixonauta2017/pixonautaweb2.jpg" alt="<?php echo $projectName; ?>" title="nebula theme home" class="img-responsive" style="margin-top:30px;" />
-            <img src="assets/img/portfolio/pixonauta2017/pixo-landscapes2.jpg" alt="<?php echo $projectName; ?>" title="nebula theme landscapes" class="img-responsive" style="margin-top:30px;" />
-            <img src="assets/img/portfolio/pixonauta2017/pixonautacharacteres2.jpg" alt="<?php echo $projectName; ?>" title="nebula theme characters" class="img-responsive" style="margin-top:30px;" />
+            <img src="assets/img/portfolio/pixonauta2017/bg1-white2--pixonauta.jpg" alt="<?php echo $projectName; ?>" title="<?php echo $projectName; ?> home" class="img-responsive" style="margin-top:30px;" />
+            <img src="assets/img/portfolio/pixonauta2017/pixonautaweb2.jpg" alt="<?php echo $projectName; ?>" title="<?php echo $projectName; ?> home" class="img-responsive" style="margin-top:30px;" />
+            <img src="assets/img/portfolio/pixonauta2017/pixo-landscapes2.jpg" alt="<?php echo $projectName; ?>" title="<?php echo $projectName; ?> landscapes" class="img-responsive" style="margin-top:30px;" />
+            <img src="assets/img/portfolio/pixonauta2017/pixonautacharacteres2.jpg" alt="<?php echo $projectName; ?>" title="<?php echo $projectName; ?> characters" class="img-responsive" style="margin-top:30px;" />
         </div>
 
         <div class="col-md-3">

@@ -32,7 +32,7 @@ $projectName = "CD Marín";
             <p>My responsibility was the design and development of the website adapting the identity of the brand. Work done for Accon software and customer</p>
 
             
-            <img src="assets/img/portfolio/cdmarin/home.jpg" alt="<?php echo $projectName; ?>" title="nebula theme home" class="img-responsive" style="margin-top:30px;" />
+            <img src="assets/img/portfolio/cdmarin/home.jpg" alt="<?php echo $projectName; ?>" title="<?php echo $projectName; ?> home" class="img-responsive" style="margin-top:30px;" />
             
         </div>
 

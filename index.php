@@ -132,7 +132,7 @@ $pageName = "Home | Angel Mavare portfolio";
 
             <!-- single work -->
             <div class="col-md-3 col-sm-6 graphics ads">
-                <a href="single-project.html" class="portfolio_item">
+                <a href="project-smshop.php" class="portfolio_item">
                     <img src="assets/img/portfolio/sshop/sshop-cover.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
                         <div class="portfolio-border clearfix">

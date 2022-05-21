@@ -34,8 +34,8 @@ $projectName = "Scribana shop";
             <p>For this ecommerce we implemented Woocommerce on the site, through a custom child theme for the Astra template, which met the needs of the client. The challenge was to adapt the payment channels for Venezuela, where payment with credit cards is limited. To do this, we integrate communication channels with Facebook and Whatsapp business in order to offer a means by which to attend to those difficult cases at the time of purchase.</p>
         
 
-            <img src="assets/img/portfolio/scribana/Scribana-Home.jpg" alt="<?php echo $projectName; ?>" title="nebula theme home" class="img-responsive" style="margin-top:30px;" />
-            <img src="assets/img/portfolio/scribana/Scribana-Products.jpg" alt="<?php echo $projectName; ?>" title="nebula theme home" class="img-responsive" style="margin-top:30px;" />
+            <img src="assets/img/portfolio/scribana/Scribana-Home.jpg" alt="<?php echo $projectName; ?>" title="<?php echo $projectName; ?> home" class="img-responsive" style="margin-top:30px;" />
+            <img src="assets/img/portfolio/scribana/Scribana-Products.jpg" alt="<?php echo $projectName; ?>" title="<?php echo $projectName; ?> home" class="img-responsive" style="margin-top:30px;" />
         </div>
 
         <div class="col-md-3">
