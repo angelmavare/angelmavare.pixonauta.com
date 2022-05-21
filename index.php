@@ -46,7 +46,7 @@ $pageName = "Home | Angel Mavare portfolio";
 
             <!-- single work -->
             <div class="col-md-3 col-sm-6 website ads">
-                <a href="single-project.php" class="portfolio_item">
+                <a href="project-cdmarin.php" class="portfolio_item">
                     <img src="assets/img/portfolio/cdmarin/cdmarinmockup.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
                         <div class="portfolio-border clearfix">
