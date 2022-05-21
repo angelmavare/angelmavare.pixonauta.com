@@ -70,10 +70,7 @@
 
 
                 <li class="box-label">Follow me</li>
-                <li class="box-social"><a target="_blank" href="https://github.com/angelmavare"><i class="fa-brands fa-github"></i></a></li>
-                <li class="box-social"><a target="_blank" href="https://www.linkedin.com/in/angel-mavare-801b12104/"><i class="fa-brands fa-linkedin-in"></i></a></li>
-                <li class="box-social"><a target="_blank" href="https://twitter.com/angelmavare1"><i class="fa-brands fa-twitter"></i></a></li>
-                <li class="box-social"><a target="_blank" href="https://www.instagram.com/angelmavare/"><i class="fa-brands fa-instagram"></i></a></li>
+                <?php require('partials/social.php');?>
 
             </ul>
         </nav>

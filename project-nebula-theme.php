@@ -31,18 +31,17 @@
 
         <div class="col-md-3">
             <ul class="cat-ul">
-                <li><i class="ion-ios-circle-filled"></i> Design</li>
-                <li><i class="ion-ios-circle-filled"></i> consectetur adipiscing</li>
-                <li><i class="ion-ios-circle-filled"></i> et gubernationis</li>
-                <li><i class="ion-ios-circle-filled"></i> Aliter enim nosmet</li>
+                <li><i class="fa-solid fa-pen-nib text-center"></i> <strong>Design:</strong> Ana Echeverría</li>
+                <li><i class="fa-solid fa-code text-center"></i> <strong>Development:</strong> Angel Mavare</li>
+                <li><i class="fa-solid fa-calendar-days text-center"></i> <strong>Date:</strong> March 2022</li>
+                <li><i class="fa-solid fa-house text-center"></i> <strong>Org:</strong> <a target="_blank" href="https://pixonauta.com">pixonauta.com</a></li>
+                <li><i class="fa-solid fa-tag text-center"></i> <strong>Tags:</strong> <span class="badge badge-primary">wordpress</span> <span class="badge badge-primary">php</span> <span class="badge badge-primary">theme</span></li>
+                
             </ul>
             <div class="h-10"></div>
-            <h4>Share</h4>
+            <h4>Follow me</h4>
             <ul class="social-ul">
-                <li class="box-social"><a href="#0"><i class="ion-social-facebook"></i></a></li>
-                <li class="box-social"><a href="#0"><i class="ion-social-instagram-outline"></i></a></li>
-                <li class="box-social"><a href="#0"><i class="ion-social-twitter"></i></a></li>
-                <li class="box-social"><a href="#0"><i class="ion-social-dribbble"></i></a></li>
+                <?php require('partials/social.php');?>
             </ul>
         </div>
     </div>

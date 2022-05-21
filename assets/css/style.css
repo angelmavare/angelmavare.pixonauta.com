@@ -1181,3 +1181,14 @@ textarea:focus {
         line-height: 30px;
     }
 }
+.badge-primary{
+    background-color:#bf5b04;
+}
+.bg-primary{
+    background-color:#bf5b04;
+}
+.cat-ul li i {
+    margin-right: 5px;
+    color: #bf5b04;
+    min-width: 20px;
+}
