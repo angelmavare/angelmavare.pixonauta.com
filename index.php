@@ -10,12 +10,12 @@ $pageName = "Home | Angel Mavare portfolio";
         <div class="table-cell">
             <h1 class="box-headline letters rotate-2">
                 <span class="box-words-wrapper">
-                    <b class="is-visible">design.</b>
-                    <b>&nbsp;coding.</b>
-                    <b>graphic.</b>
+                    <b class="is-visible">creative.</b>
+                    <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;coding.</b>
+                    <b>&nbsp;solutions.</b>
                 </span>
             </h1>
-            <h5>everything you need to build your personal portfolio</h5>
+            <h5>Welcome to my portfolio!</h5>
         </div>
 
         <div class="mouse">
