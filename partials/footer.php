@@ -1,7 +1,7 @@
    <!-- footer -->
    <footer>
         <div class="container-fluid">
-            <p class="copyright">© Angel Mavare 2022</p>
+            <p class="copyright">© Angel Mavare <?php echo date("Y"); ?></p>
         </div>
     </footer>
     <!-- end footer -->

@@ -200,9 +200,16 @@ $pageName = "Home | Angel Mavare portfolio";
             <!-- end single work -->
         </div>
         <!-- end portfolio_container -->
+
     </div>
     <!-- portfolio -->
 </div>
 <!-- end portfolio div -->
+<div class="container-fluid button-banner" style="background:rgb(245, 245, 245);background-position:center; background-size:cover; "><!-- url('assets/img/01.jpg') -->
+<div class="black-overlay">
+ <a href="portfolio.php" class="btn btn-am-primary">All projects</a>
+</div>
+
+</div>
 
 <?php require('partials/footer.php'); ?>

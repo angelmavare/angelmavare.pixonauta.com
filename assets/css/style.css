@@ -1192,3 +1192,30 @@ textarea:focus {
     color: #bf5b04;
     min-width: 20px;
 }
+.btn-am-primary{
+    font-style: normal;
+    font-weight: 600;
+    display: inline-block;
+    background-color: #bf5b04;
+    padding: 5px 20px;
+    border-radius: 25px;
+    color: #ebc1a6;
+    margin-top: 10px;
+    -webkit-transition: all .3s ease-in-out .3s;
+    transition: all .3s ease-in-out .3s;
+    font-size: 14px;
+    letter-spacing: 2px;
+}
+.button-banner{
+    position: relative;
+    text-align:center;
+    padding: 0;
+}
+.black-overlay{
+   /*  position: absolute; */
+    height: 100%;
+    padding-top:70px; 
+    padding-bottom:70px;
+    background: rgba(256, 256,256, 0.5);
+
+}

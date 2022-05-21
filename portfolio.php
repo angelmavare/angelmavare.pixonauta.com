@@ -21,9 +21,10 @@ $pageName = "Portfolio | Angel Mavare";
                     <nav class="categories text-center">
                         <ul class="portfolio_filter">
                             <li><a href="" class="active" data-filter="*">All</a></li>
-                            <li><a href="" data-filter=".wordpress">Wordpress</a></li>
+                            <li><a href="" data-filter=".website">Website</a></li>
                             <li><a href="" data-filter=".themes">Themes</a></li>
                             <li><a href="" data-filter=".e-commerce">E-commerce</a></li>
+                            <li><a href="" data-filter=".e-learning">E-learning</a></li>
                             <li><a href="" data-filter=".web-design">Web Design</a></li>
 
                         </ul>
@@ -34,14 +35,14 @@ $pageName = "Portfolio | Angel Mavare";
                 <!-- portfolio_container -->
                 <div class="no-padding portfolio_container clearfix">
                     <!-- single work -->
-                    <div class="col-md-4 col-sm-6  fashion logo">
-                        <a href="single-project.html" class="portfolio_item">
-                            <img src="assets/img/portfolio/01.jpg" alt="image" class="img-responsive" />
+                    <div class="col-md-4 col-sm-6  e-commerce">
+                        <a href="project-scribana.php" class="portfolio_item">
+                            <img src="assets/img/portfolio/scribana/scribana-presentation2-square2.jpg" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
-                                        <span>Mockups in seconds</span>
-                                        <em>Fashion / Logo</em>
+                                        <span>Scribana shop</span>
+                                        <em>e-commerce</em>
                                     </div>
                                 </div>
                             </div>
@@ -50,14 +51,14 @@ $pageName = "Portfolio | Angel Mavare";
                     <!-- end single work -->
 
                     <!-- single work -->
-                    <div class="col-md-4 col-sm-6 ads graphics">
-                        <a href="single-project.html" class="portfolio_item">
-                            <img src="assets/img/portfolio/03.jpg" alt="image" class="img-responsive" />
+                    <div class="col-md-4 col-sm-6 themes">
+                        <a href="project-nebula-theme.php" class="portfolio_item">
+                            <img src="assets/img/portfolio/nebula-theme/ipad-nebula8.jpg" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
-                                        <span>Floating mockups</span>
-                                        <em>Ads / Graphics</em>
+                                        <span>Nebula theme</span>
+                                        <em>Theme</em>
                                     </div>
                                 </div>
                             </div>
@@ -66,14 +67,14 @@ $pageName = "Portfolio | Angel Mavare";
                     <!-- end single work -->
 
                     <!-- single work -->
-                    <div class="col-md-4 col-sm-12 photography">
-                        <a href="single-project.html" class="portfolio_item">
-                            <img src="assets/img/portfolio/02.jpg" alt="image" class="img-responsive" />
+                    <div class="col-md-4 col-sm-12 themes">
+                        <a href="project-uxtify-theme.php" class="portfolio_item">
+                            <img src="assets/img/portfolio/uxtify_theme/uxtify-cover2.jpg" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
-                                        <span>Photorealistic smartwatch</span>
-                                        <em>Photography</em>
+                                        <span>Uxtify theme</span>
+                                        <em>Theme</em>
                                     </div>
                                 </div>
                             </div>
@@ -82,14 +83,14 @@ $pageName = "Portfolio | Angel Mavare";
                     <!-- end single work -->
 
                     <!-- single work -->
-                    <div class="col-md-4 col-sm-6 fashion ads">
-                        <a href="single-project.html" class="portfolio_item">
-                            <img src="assets/img/portfolio/04.jpg" alt="image" class="img-responsive" />
+                    <div class="col-md-4 col-sm-6 e-commerce">
+                        <a href="project-octoedro-store.php" class="portfolio_item">
+                            <img src="assets/img/portfolio/octoedroshop/octomockup2.jpg" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
-                                        <span>Held by hands</span>
-                                        <em>Fashion / Ads</em>
+                                        <span>Octoedro store</span>
+                                        <em>E-commerce</em>
                                     </div>
                                 </div>
                             </div>
@@ -98,14 +99,14 @@ $pageName = "Portfolio | Angel Mavare";
                     <!-- end single work -->
 
                     <!-- single work -->
-                    <div class="col-md-4 col-sm-6 graphics ads">
-                        <a href="single-project.html" class="portfolio_item">
-                            <img src="assets/img/portfolio/05.jpg" alt="image" class="img-responsive" />
+                    <div class="col-md-4 col-sm-6 e-commerce">
+                        <a href="project-smshop.php" class="portfolio_item">
+                            <img src="assets/img/portfolio/sshop/sshop-cover.jpg" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
-                                        <span>Mobile devices</span>
-                                        <em>Graphics / Ads</em>
+                                        <span>SMS Shop</span>
+                                        <em>E-commerce</em>
                                     </div>
                                 </div>
                             </div>
@@ -114,14 +115,14 @@ $pageName = "Portfolio | Angel Mavare";
                     <!-- end single work -->
 
                     <!-- single work -->
-                    <div class="col-md-4 col-sm-12 photography">
-                        <a href="single-project.html" class="portfolio_item">
-                            <img src="assets/img/portfolio/010.jpg" alt="image" class="img-responsive" />
+                    <div class="col-md-4 col-sm-12 website web-design">
+                        <a href="project-pixonauta.php" class="portfolio_item">
+                            <img src="assets/img/portfolio/pixonauta-cover3.jpg" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
-                                        <span>Photorealistic smartwatch</span>
-                                        <em>Photography</em>
+                                        <span>Pixonauta Agency</span>
+                                        <em>Website</em>
                                     </div>
                                 </div>
                             </div>
@@ -130,14 +131,14 @@ $pageName = "Portfolio | Angel Mavare";
                     <!-- end single work -->
 
                     <!-- single work -->
-                    <div class="col-md-4 col-sm-6 graphics ads">
-                        <a href="single-project.html" class="portfolio_item">
-                            <img src="assets/img/portfolio/06.jpg" alt="image" class="img-responsive" />
+                    <div class="col-md-4 col-sm-6 website web-design">
+                        <a href="project-cdmarin.php" class="portfolio_item">
+                            <img src="assets/img/portfolio/cdmarin/cdmarinmockup.jpg" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
-                                        <span>Mobile devices</span>
-                                        <em>Graphics / Ads</em>
+                                        <span>CD Marín</span>
+                                        <em>Website</em>
                                     </div>
                                 </div>
                             </div>
@@ -146,14 +147,14 @@ $pageName = "Portfolio | Angel Mavare";
                     <!-- end single work -->
 
                     <!-- single work -->
-                    <div class="col-md-4 col-sm-6 graphics ads">
-                        <a href="single-project.html" class="portfolio_item">
-                            <img src="assets/img/portfolio/07.jpg" alt="image" class="img-responsive" />
+                    <div class="col-md-4 col-sm-6 website web-design">
+                        <a href="project-valuejob.php" class="portfolio_item">
+                            <img src="assets/img/portfolio/vjob/vjobmockup.jpg" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
-                                        <span>Mobile devices</span>
-                                        <em>Graphics / Ads</em>
+                                        <span>Valuejob</span>
+                                        <em>Website</em>
                                     </div>
                                 </div>
                             </div>
@@ -162,14 +163,29 @@ $pageName = "Portfolio | Angel Mavare";
                     <!-- end single work -->
 
                     <!-- single work -->
-                    <div class="col-md-4 col-sm-6 graphics ads">
-                        <a href="single-project.html" class="portfolio_item">
-                            <img src="assets/img/portfolio/08.jpg" alt="image" class="img-responsive" />
+                    <div class="col-md-4 col-sm-6 e-learning">
+                        <a href="project-coecmoodle.php" class="portfolio_item">
+                            <img src="assets/img/portfolio/coecmoodle/coecmoodle2.jpg" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
-                                        <span>Mobile devices</span>
-                                        <em>Graphics / Ads</em>
+                                        <span>COEC moodle</span>
+                                        <em>E-learning</em>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <!-- end single work -->
+                    <!-- single work -->
+                    <div class="col-md-4 col-sm-6 website web-design">
+                        <a href="project-notson.php" class="portfolio_item">
+                            <img src="assets/img/portfolio/nacustica/na-cover2.jpg" alt="image" class="img-responsive" />
+                            <div class="portfolio_item_hover">
+                                <div class="portfolio-border clearfix">
+                                    <div class="item_info">
+                                        <span>Notson website</span>
+                                        <em>Website</em>
                                     </div>
                                 </div>
                             </div>
