@@ -21,7 +21,7 @@ $pageName = "About me | Angel Mavare";
 
             <div class="h-0"></div>
             <p>
-                Hello! I'm Angel, Web/front-end developer from Venezuela, graduated in Computer Engineering from the Universidad Centroccidental Lisandro Alvarado (UCLA).
+                Hello! I'm Angel, Web full-stack developer from Venezuela, graduated in Computer Engineering from the Universidad Centroccidental Lisandro Alvarado (UCLA).
                 
                 </p>
 
