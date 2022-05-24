@@ -43,6 +43,7 @@ $pageName = "Contact | Angel Mavare";
                     </div>
                     <input type="text" name="honeypot" style="display:none">
                     <div class="col-md-12">
+                    <input type="hidden" name="redirectTo" value="https://angelmavare.pixonauta.com/contact-success.php">
                     <input type="submit" class="btn btn-box" value="Submit" />
                         
                     </div>
@@ -52,12 +53,12 @@ $pageName = "Contact | Angel Mavare";
 
         <div class="col-md-6">
             <h3 class="text-uppercase">contact me</h3>
-            <h5>Creative & Lorem ipsum dolor sit amet</h5>
+            <!-- <h5>Creative & Lorem ipsum dolor sit amet</h5> -->
             <div class="h-30"></div>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliter enim nosmet ipsos nosse non possumus. Inscite autem medicinae et gubernationis ultimum cum ultimo sapientiae comparatur. Tecum optime, deinde etiam cum mediocri amico. Et nemo nimium beatus est; Ac ne plura complectar-sunt enim innumerabilia-, bene laudata virtus voluptatis aditus </p>
+            <p>You can contact me through this form, my email or through my whatsapp to request information, budgets or any concerns</p>
             <div class="contact-info">
-                <p><i class="ion-android-call"></i> 0100 787 3456</p>
-                <p><i class="ion-ios-email"></i> box@info.com</p>
+                <p><i class="fa-brands fa-whatsapp"></i> +58 414 520 4695</p>
+                <p><i class="fa-solid fa-envelope"></i> angelmavare1@gmail.com</p>
             </div>
         </div>
 
