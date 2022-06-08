@@ -1,6 +1,6 @@
 <?php 
-$pageName = "CD Marín | Angel Mavare"; 
-$projectName = "CD Marín";
+$pageName = "Clínica Maresme | Angel Mavare"; 
+$projectName = "Clínica Maresme";
 ?>
 
 <?php require('partials/header.php');
