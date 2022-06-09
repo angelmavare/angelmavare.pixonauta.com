@@ -24,7 +24,7 @@ $projectName = "Tabimovil";
 
         <div class="col-md-12">
             <h3 class="text-uppercase"><?php echo $projectName; ?></h3>
-            <h5>Website for CD Marín</h5>
+            <h5>Website for Tabimovil</h5>
             <div class="h-30"></div>
         </div>
 
@@ -40,7 +40,7 @@ $projectName = "Tabimovil";
             <ul class="cat-ul">
                 <!-- <li><i class="fa-solid fa-pen-nib text-center"></i> <strong>Design:</strong> Ana Echeverría</li> -->
                 <!-- <li><i class="fa-solid fa-code text-center"></i> <strong>Development:</strong> Angel Mavare</li> -->
-                <li><i class="fa-solid fa-calendar-days text-center"></i> <strong>Date:</strong> Sept 2018</li>
+                <li><i class="fa-solid fa-calendar-days text-center"></i> <strong>Date:</strong> Oct 2019</li>
                 <li><i class="fa-solid fa-circle-user text-center"></i> <strong>Client:</strong> <?php echo $projectName; ?></li>
                 <li><i class="fa-solid fa-building text-center"></i> <strong>Company:</strong> Accon Software</li>
                 <li><i class="fa-solid fa-tag text-center"></i> <strong>Tags:</strong>  <span class="badge badge-primary">website</span> <span class="badge badge-primary">wordpress</span> </li>
