@@ -31,7 +31,7 @@ $pageName = "Home | Angel Mavare portfolio";
             <!-- single work -->
             <div class="col-md-3 col-sm-6  theme logo">
                 <a href="project-nebula-theme.php" class="portfolio_item">
-                    <img src="assets/img/portfolio/nebula-theme/ipad-nebula8.jpg" alt="image" class="img-responsive" />
+                    <img src="assets/img/portfolio/ipad-nebula8.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
                         <div class="portfolio-border clearfix">
                             <div class="item_info">
@@ -47,7 +47,7 @@ $pageName = "Home | Angel Mavare portfolio";
              <!-- single work -->
              <div class="col-md-3 col-sm-6 theme">
                 <a href="project-uxtify-theme.php" class="portfolio_item">
-                    <img src="assets/img/portfolio/uxtify_theme/uxtify-cover2.jpg" alt="image" class="img-responsive" />
+                    <img src="assets/img/portfolio/uxtify-cover2.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
                         <div class="portfolio-border clearfix">
                             <div class="item_info">
@@ -68,7 +68,7 @@ $pageName = "Home | Angel Mavare portfolio";
             <!-- single work -->
             <div class="col-md-6 col-sm-12 e-commerce">
                 <a href="project-scribana.php" class="portfolio_item">
-                    <img src="assets/img/portfolio/scribana/scribana-presentation2-square2.jpg" alt="image" class="img-responsive" />
+                    <img src="assets/img/portfolio/scribana-presentation2-square2.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
                         <div class="portfolio-border clearfix">
                             <div class="item_info">
@@ -84,7 +84,7 @@ $pageName = "Home | Angel Mavare portfolio";
             <!-- single work -->
             <div class="col-md-3 col-sm-6 ecommerce">
                 <a href="project-octoedro-store.php" class="portfolio_item">
-                    <img src="assets/img/portfolio/octoedroshop/octomockup2.jpg" alt="image" class="img-responsive" />
+                    <img src="assets/img/portfolio/octomockup2.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
                         <div class="portfolio-border clearfix">
                             <div class="item_info">
@@ -102,7 +102,7 @@ $pageName = "Home | Angel Mavare portfolio";
             <!-- single work -->
             <div class="col-md-3 col-sm-6 graphics ads">
                 <a href="project-smshop.php" class="portfolio_item">
-                    <img src="assets/img/portfolio/sshop/sshop-cover.jpg" alt="image" class="img-responsive" />
+                    <img src="assets/img/portfolio/sshop-cover.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
                         <div class="portfolio-border clearfix">
                             <div class="item_info">
@@ -136,7 +136,7 @@ $pageName = "Home | Angel Mavare portfolio";
            <!-- single work -->
            <div class="col-md-3 col-sm-6 website ads">
                 <a href="project-cdmarin.php" class="portfolio_item">
-                    <img src="assets/img/portfolio/cdmarin/cdmarinmockup.jpg" alt="image" class="img-responsive" />
+                    <img src="assets/img/portfolio/cdmarinmockup.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
                         <div class="portfolio-border clearfix">
                             <div class="item_info">
@@ -154,7 +154,7 @@ $pageName = "Home | Angel Mavare portfolio";
             <!-- single work -->
             <div class="col-md-3 col-sm-6 graphics ads">
                 <a href="project-valuejob.php" class="portfolio_item">
-                    <img src="assets/img/portfolio/vjob/vjobmockup.jpg" alt="image" class="img-responsive" />
+                    <img src="assets/img/portfolio/vjobmockup.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
                         <div class="portfolio-border clearfix">
                             <div class="item_info">
@@ -170,7 +170,7 @@ $pageName = "Home | Angel Mavare portfolio";
             <!-- single work -->
             <div class="col-md-3 col-sm-6 ads graphics">
                 <a href="project-coecmoodle.php" class="portfolio_item">
-                    <img src="assets/img/portfolio/coecmoodle/coecmoodle2.jpg" alt="image" class="img-responsive" />
+                    <img src="assets/img/portfolio/coecmoodle2.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
                         <div class="portfolio-border clearfix">
                             <div class="item_info">
@@ -186,7 +186,7 @@ $pageName = "Home | Angel Mavare portfolio";
             <!-- single work -->
             <div class="col-md-3 col-sm-6 graphics ads">
                 <a href="project-notson.php" class="portfolio_item">
-                    <img src="assets/img/portfolio/nacustica/na-cover2.jpg" alt="image" class="img-responsive" />
+                    <img src="assets/img/portfolio/na-cover2.jpg" alt="image" class="img-responsive" />
                     <div class="portfolio_item_hover">
                         <div class="portfolio-border clearfix">
                             <div class="item_info">
